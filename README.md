@@ -1,19 +1,19 @@
 # Syntexhub_UserOperationsManagement
 UserOperationsManagement is a Spring Boot backend project for managing user data through REST APIs. It supports CRUD operations and uses a layered architecture (Controller, Service, Repository). Integrated with MySQL and Spring Security, it helps beginners learn API development, database handling, and basic security concepts.
 
-*****🚀 Features*****
+# 🚀 Features
 1. ➕ Add new user records
 2. 📋 read all user
 3. ✏️ Update user details
 4. ❌ Delete s=user records
 
-*****🛠️ Technologies Used*****
+****🛠️ Technologies Used****
 1. BackEnd : Java
 2. BackEnd Framework : Spring Boot
 3. DataBase : MySQL
 4. API Testing Tool: Postmam
 
-*****🧠 Concepts Covered*****
+****🧠 Concepts Covered****
 1. REST API development using Spring Boot
 2. CRUD operations (Create, Read, Update, Delete)
 3. Layered architecture (Controller, Service, Repository)
@@ -23,7 +23,7 @@ UserOperationsManagement is a Spring Boot backend project for managing user data
 7. Basic Spring Security (authentication concepts)
 8. Testing APIs using Postman
 
-*****📌 Future Enhancements*****
+****📌 Future Enhancements****
 1. Implement JWT (JSON Web Token) based authentication for secure API access
 2. Add Login API with username/email and password validation
 3. Introduce role-based authorization (e.g., Admin, User)
@@ -35,7 +35,7 @@ UserOperationsManagement is a Spring Boot backend project for managing user data
 9. Integrate Swagger/OpenAPI for API documentation
 10. Add logging and monitoring for tracking API activity
 
-*****🧪 Testing****
+****🧪 Testing****
 
 Use Postman to test APIs:
 
