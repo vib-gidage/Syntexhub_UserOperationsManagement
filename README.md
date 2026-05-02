@@ -5,7 +5,7 @@ UserOperationsManagement is a Spring Boot backend project for managing user data
 1. ➕ Add new user records
 2. 📋 read all user
 3. ✏️ Update user details
-4. ❌ Delete s=user records
+4. ❌ Delete user records
 
 # 🛠️ Technologies Used
 1. BackEnd : Java
