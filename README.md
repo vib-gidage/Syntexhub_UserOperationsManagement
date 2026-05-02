@@ -35,6 +35,10 @@ UserOperationsManagement is a Spring Boot backend project for managing user data
 9. Integrate Swagger/OpenAPI for API documentation
 10. Add logging and monitoring for tracking API activity
 
-##👩‍💻 Author
+*****🧪 Testing****
 
-Vaibhavi Gidage
+Use Postman to test APIs:
+
+Set method (POST/GET/PUT/DELETE)
+Add JSON body
+Use Content-Type: application/json
