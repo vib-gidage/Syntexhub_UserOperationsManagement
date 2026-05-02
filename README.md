@@ -8,10 +8,10 @@ UserOperationsManagement is a Spring Boot backend project for managing user data
 4. ❌ Delete s=user records
 
 *****🛠️ Technologies Used*****
-BackEnd : Java
-BackEnd Framework : Spring Boot
-DataBase : MySQL
-API Testing Tool: Postmam
+1. BackEnd : Java
+2. BackEnd Framework : Spring Boot
+3. DataBase : MySQL
+4. API Testing Tool: Postmam
 
 *****🧠 Concepts Covered*****
 1. REST API development using Spring Boot
@@ -23,7 +23,7 @@ API Testing Tool: Postmam
 7. Basic Spring Security (authentication concepts)
 8. Testing APIs using Postman
 
-📌 Future Enhancements
+*****📌 Future Enhancements*****
 1. Implement JWT (JSON Web Token) based authentication for secure API access
 2. Add Login API with username/email and password validation
 3. Introduce role-based authorization (e.g., Admin, User)
