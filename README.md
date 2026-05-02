@@ -34,3 +34,7 @@ UserOperationsManagement is a Spring Boot backend project for managing user data
 8. Enable pagination and sorting for fetching user data
 9. Integrate Swagger/OpenAPI for API documentation
 10. Add logging and monitoring for tracking API activity
+
+##👩‍💻 Author
+
+Vaibhavi Gidage
