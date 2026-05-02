@@ -42,3 +42,7 @@ UserOperationsManagement is a Spring Boot backend project for managing user data
 1. Set method (POST/GET/PUT/DELETE)
 2. Add JSON body
 3. Use Content-Type: application/json
+
+# ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
